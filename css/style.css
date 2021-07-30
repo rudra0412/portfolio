@@ -499,8 +499,8 @@ footer .copyright{
 
     .hero .right{
         text-align: center;
-        position: absolute;
-        top: 470px;
+        
+        top: 400px;
         padding:0 3rem;
         
     }
@@ -511,7 +511,7 @@ footer .copyright{
     .hero .left{
         margin-top: -4rem;
         justify-content: center;
-        padding-bottom: 31rem;
+        padding-bottom: 9rem;
     }
 
     section.about .about-me-img{
